@@ -9,3 +9,7 @@
 Hi = "Hello World"
 print(Hi)
 ```
+- [x]  Practicar Headers en Markdown
+- [x]  Subir una foto de un michi negro
+- [x]  Presentarme al mundo
+- [ ]  Terminar la carrera !  
